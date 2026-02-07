@@ -1,0 +1,48 @@
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ███╗   ███╗███████╗██████╗ ██╗███████╗ ██████╗██████╗ ██╗██████╗ ║
+║   ████╗ ████║██╔════╝██╔══██╗██║██╔════╝██╔════╝██╔══██╗██║██╔══██╗║
+║   ██╔████╔██║█████╗  ██║  ██║██║███████╗██║     ██████╔╝██║██████╔╝║
+║   ██║╚██╔╝██║██╔══╝  ██║  ██║██║╚════██║██║     ██╔══██╗██║██╔═══╝ ║
+║   ██║ ╚═╝ ██║███████╗██████╔╝██║███████║╚██████╗██║  ██║██║██║     ║
+║   ╚═╝     ╚═╝╚══════╝╚═════╝ ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝     ║
+║                                                                      ║
+║                  🏥 AI-Powered Prescription Scanner 💊               ║
+║                                                                      ║
+║              Transform handwritten prescriptions into                ║
+║              clear, understandable instructions                      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+✨ Features:
+   • 📸 Image Upload (Drag & Drop)
+   • 🔍 AI-Powered OCR (Google Gemini)
+   • 💊 Medicine Extraction
+   • 🌐 Multi-language (English & Hindi)
+   • 🔊 Voice Output
+   • 📊 Confidence Scoring
+
+🚀 Status: READY TO USE
+📦 Version: 1.0.0 (MVP)
+👨‍💻 Developer: Pratik Harkare
+
+⚠️  IMPORTANT: This app only explains prescriptions.
+    It does NOT provide medical advice or diagnosis.
+    Always follow your doctor's instructions.
+
+📚 Documentation:
+   • GET_STARTED.md - Complete setup guide
+   • README.md - Full documentation
+   • QUICK_START.md - Fast setup
+   • TESTING_GUIDE.md - Testing instructions
+
+🔧 Quick Start:
+   1. Add Gemini API key to server/.env
+   2. Run: cd server && npm run dev
+   3. Run: cd client && npm run dev (new terminal)
+   4. Open: http://localhost:3000
+
+💡 Need help? Run: ./verify-setup.sh
+
+Made with ❤️ for better healthcare accessibility
